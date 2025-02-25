@@ -12,9 +12,6 @@
     padding-top: 27px;
 }
 
-.diven-3 {
-    display: none;
-}
 
 .header .header-right-1, .header-right-2, .header-right-3 {
     font-weight: 500;
@@ -367,6 +364,6 @@
     }
 
     .content-featured-1, .content-featured-2, .content-featured-3 {
-        width: 100%;
+        width: 100%; 
     }
  }
